@@ -61,9 +61,9 @@
 </p>
 <br />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
--->
+
 <br><br><br>
 
 ### Lenguajes mas Usados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario)](https://github.com/anuraghazra/github-readme-stats)   
-
+-->
