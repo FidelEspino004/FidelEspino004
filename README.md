@@ -38,8 +38,7 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-<!-- Connect with me 
+<!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
@@ -47,23 +46,19 @@
           height="60" style="margin-right: 10px;"> - Connect With Me</h2>
     </summary>
   </ul>
-</div>-->
-<!--icons and links
+</div>
+<!--icons and links -->
 <p align="center">
-   <a href="mailto:pathak.arpita6497@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!"><img
+   <a href="mailto:pathak.fideles0420@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!"><img
       align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arpita-pathak-825a7a1b1/"><img align="center"
+  <a href="https://www.linkedin.com/in/fidel-espino-39555b26b/"><img align="center"
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
       alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sele_no_phile_0/"><img align="center"
+  <a href="https://www.instagram.com/fidelespino_/"><img align="center"
       src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
       alt="instagram" height="50" width="50" /></a>
 </p>
-<br />
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br/>
 
-<br><br><br>
 
-### Lenguajes mas Usados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario)](https://github.com/anuraghazra/github-readme-stats)   
--->
+
