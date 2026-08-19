@@ -43,14 +43,12 @@
   <ul align="center">
     <summary>
       <h2 style="display: inline-block"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"
-          height="60" style="margin-right: 10px;"> - Connect With Me</h2>
+          height="60" style="margin-right: 10px;"> Mis Redes</h2>
     </summary>
   </ul>
 </div>
 <!--icons and links -->
 <p align="center">
-   <a href="mailto:pathak.fideles0420@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!"><img
-      align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fidel-espino-39555b26b/"><img align="center"
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
       alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;
